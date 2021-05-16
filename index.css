@@ -1,0 +1,22 @@
+img {
+    width: 300px; 
+    height: 400px;
+}
+.firstpara {
+    font-size: 16px;
+}
+h1 {
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+h2 {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+.sidebyside{
+    display: flex;
+    flex-direction: row;
+}
