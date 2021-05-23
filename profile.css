@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+#mybrandlogo {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+}
+#infobutton {
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+}
+.containerofbutton {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.imageicon {
+    width: 30px;
+    height: 30px;
+}
+#row1{
+margin-bottom: 100px;
+}
+#row2{
+margin-bottom: 100px;
+}
+#row3{
+margin-bottom: 100px;
+}
+#myimageportfolio {
+    width: 200px;
+    border: 20px;
+    margin-right: 10px;
+}
+.sidebyside {
+    display: flex;
+}
